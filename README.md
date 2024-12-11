@@ -7,5 +7,9 @@ This project uses interfaces available on a PC to communicate between two comput
 ### IDE
 The project was created in Visual Studio IDE with .NET 6.0.
 
+### Interface
+
+![The application interface](Interface-1.png)
+
 ### AUTHOR
 Jakub Redmerski
